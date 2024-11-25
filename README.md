@@ -1,3 +1,3 @@
 <a href="https://github.com/htmlgxn">
-    <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Ben+Chitty;Passionate+about+free+and+open+source;Decentralization;Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Nano+Sans+Mono&size=16&pause=1000&color=D7C63C&width=435&lines=Ben+Chitty;open+source+%2B+decentralization" alt="Typing SVG" />
 </a>
