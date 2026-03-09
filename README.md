@@ -1,4 +1,1 @@
-<a href="https://github.com/htmlgxn">
-    <img src="https://readme-typing-svg.demolab.com?font=Nano+Sans+Mono&size=16&duration=2000&pause=5000&color=A1942D&multiline=true&width=435&height=25&lines=Ben+Chitty+%7C+htmlgxn" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Nano+Sans+Mono&size=14&duration=2000&pause=5000&color=A1942D&multiline=true&width=435&height=20&lines=Free+and+open-source+%2B+decentralization" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=F6EEC9&background=413C1E&width=435&lines=%40htmlgxn++%7C++Ben+Chitty;smiler+and+oss-enjoyer" alt="Typing SVG" /></a>
