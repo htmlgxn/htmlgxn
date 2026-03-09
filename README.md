@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/htmlgxn/ytdl-archiver">
-    <img src="https://raw.githubusercontent.com/htmlgxn/ytdl-archiver/main/assets/logo.png" alt="ytdl-archiver" width="600">
+    <img src="https://raw.githubusercontent.com/htmlgxn/ytdl-archiver/main/assets/logo.png" alt="ytdl-archiver" width="400">
   </a>
 </p>
